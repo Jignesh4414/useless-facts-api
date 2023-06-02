@@ -7,7 +7,7 @@ app.get('/', function(request, response) {
     response.send({
         'author' : 'Jignesh Rathod',
         'author_url' : 'https://www.sameerkumar.website',
-        'base_url' : 'https://meetanshi.org/shopify/jigs/ai_content_generator',
+        'base_url' : 'https://meetanshi.org/shopify/jigs/ai_content_generator/api',
         'project_name' : 'Useless Facts API',
         'project_url' : 'https://github.com/Jignesh4414/useless-facts-api'
     })
