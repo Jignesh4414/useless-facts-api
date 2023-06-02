@@ -5,7 +5,7 @@ const helpers = require('./helpers');
 const app = express();
 app.get('/', function(request, response) {
     response.send({
-        'author' : 'Sameer Kumar',
+        'author' : 'Jignesh Rathod',
         'author_url' : 'https://www.sameerkumar.website',
         'base_url' : 'https://meetanshi.org/shopify/jigs/ai_content_generator',
         'project_name' : 'Useless Facts API',
